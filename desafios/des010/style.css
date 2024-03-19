@@ -1,0 +1,117 @@
+@charset "UTF-8";
+@font-face {
+    font-family: androide;
+    src: url(fontes/idroid.otf);
+}
+
+
+
+body{
+    background-color: rgb(163, 216, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+header{
+    background: linear-gradient(rgb(120, 214, 120), green);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border:5px ;
+    font-size: small;
+}
+
+header > h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+header > p{
+    text-indent: none;
+    text-align: center;
+}
+
+header > nav{
+    text-align: left;
+}
+
+nav > a{
+    text-decoration: none;
+    padding: 2px;
+    color: white;
+}
+
+nav > a:hover{
+    background-color: rgb(4, 44, 4);
+    border: 5px;
+    margin: 5px;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+main{
+    background-color: white;
+    border: 5px;
+    margin: 30px;
+   
+}
+
+h1, h2{
+   font-family: androide;
+   color: green;
+   padding: 5px;
+}
+h2{
+    background-color: rgba(146, 203, 146, 0.488);
+    margin: 5px;
+    border-radius: 2px;
+}
+
+p{
+    padding: 10px;
+    text-align: justify;
+    text-indent: 10px;
+}
+
+.imagemmulher{
+    padding: 10px;
+}
+
+.android{
+    text-align: center;
+}
+
+.video{
+    padding: 10px;
+    background-color: green;
+}
+
+footer{
+    background-color: white;
+    margin: 30px;
+}
+ 
+h5{
+    background-color: rgb(58, 117, 58);
+    border: 30px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.corfundo{
+    background-color: rgb(182, 225, 182);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.641);
+    margin-top: 0;
+    border: 0px;
+    outline: 0px;
+}
+
+.ultimo{
+    background-color: white;
+}
+
+.linkverde{
+    color: green;
+    font-weight: bold;
+}
