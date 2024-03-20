@@ -3,3 +3,5 @@
 
  Estou aprendendo a criar sites e agora vou aprender 
  a gerenciar meuus repositorios.
+
+ <a href="https://vmkruger.github.io/html-css/exercicios/ex001/index.html"> Executar exercicio 001
